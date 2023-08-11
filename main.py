@@ -1102,6 +1102,10 @@ def func():
     stdout.write(Fore.MAGENTA+" • "+Fore.WHITE+"exit       "+Fore.RED+": "+Fore.WHITE+"Bye..\n")
     stdout.write(Fore.MAGENTA+" • "+Fore.WHITE+"credit     "+Fore.RED+": "+Fore.WHITE+"Thanks for\n")
 
+
+// hackertarget
+
+
 if __name__ == '__main__':
     init(convert=True)
     if len(sys.argv) < 2:
