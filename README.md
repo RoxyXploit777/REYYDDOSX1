@@ -59,7 +59,7 @@
 ```sh
 You must use Python 3.9 or higher
 
-git clone https://github.com/ReyyXploit/REYYDDOSX1.git
+git clone (https://github.com/RoxyXploit777/REYYDDOSX1.git)
 
 Install Python3 modules
  - pip3 install -r requirements.txt  or  pip install -r requirements.txt
